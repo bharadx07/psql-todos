@@ -1,0 +1,10 @@
+GET INTO PSQL SHELL FIRST
+
+\l -> List 
+\c -> Connect to a certain DB
+\dt Look at the tables.
+
+CREATE DATABASE _db name here_ -> Create a database.
+CREATE TABLE _table_name (
+    _rowname_ _row type_
+); -> Create a table in your database with rows and columns.
