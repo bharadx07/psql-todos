@@ -10,10 +10,10 @@
 5) Express
 
 ## Useful Files
-1) ```commands.txt``` -> Useful Commands Used In The Project
+1) ```commands.txt``` -> Useful Commands Used In The Project.
 2) ```database.sql``` -> Commands in the PSQL Shell for Project Setup.
-3) ```db.js``` -> Database Connection With PG
-4) ```index.js``` -> Rest-API
+3) ```db.js``` -> Database Connection With PG Library.
+4) ```index.js``` -> Rest-API Routes.
 
 ## Local Dev
-#### Clone this project. Create a ```.env``` file and add DB_PASSWORD and DB_USER as their correct values. Run the commands in ```database.sql``` and you should be ready to develop after running ```npm run dev``` in your terminal. REQUIREMENT: PSQL installed on your computer.
+Clone this project. Create a ```.env``` file in the root and add DB_PASSWORD and DB_USER as their correct values for you. Run the commands in ```database.sql``` using PSQL Shell and you should be ready to develop after running ```npm run dev``` in your terminal. REQUIREMENT: PSQL installed on your computer.
