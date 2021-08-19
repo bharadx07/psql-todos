@@ -17,3 +17,6 @@
 
 ## Local Dev
 Clone this project. Create a ```.env``` file in the root and add DB_PASSWORD and DB_USER as their correct values for you. Run the commands in ```database.sql``` using PSQL Shell and you should be ready to develop after running ```npm run dev``` in your terminal. REQUIREMENT: PSQL installed on your computer.
+
+## Credits
+Project built by [Bharadwaj Duggaraju](https://bharadwaj.duggaraju.com).
